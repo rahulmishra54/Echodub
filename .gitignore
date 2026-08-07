@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Project runtime artifacts
+temp/*
+!temp/.gitkeep
+output/*
+!output/.gitkeep
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Models cache (faster-whisper downloads models here by default)
+.cache/

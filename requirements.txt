@@ -1,0 +1,7 @@
+streamlit>=1.33
+faster-whisper>=1.0.1
+edge-tts>=6.1.10
+deep-translator>=1.11.4
+ffmpeg-python>=0.2.0
+pydub>=0.25.1
+yt-dlp>=2024.4.9
