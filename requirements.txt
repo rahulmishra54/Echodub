@@ -5,3 +5,4 @@ deep-translator>=1.11.4
 ffmpeg-python>=0.2.0
 pydub>=0.25.1
 yt-dlp>=2024.4.9
+ffmpeg
